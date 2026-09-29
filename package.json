@@ -1,0 +1,26 @@
+{
+  "name": "clase17",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/CucoDavid/classSection17#readme",
+  "bugs": {
+    "url": "https://github.com/CucoDavid/classSection17/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CucoDavid/classSection17.git"
+  },
+  "license": "ISC",
+  "author": "cucodavid",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "typescript": "^7.0.2"
+  },
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
